@@ -2,7 +2,7 @@
   "name": "CallsMusic",
   "description": "Open-source bot to play music in group calls. Powered by https://github.com/pytgcalls/pytgcalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/callsmusic/callsmusic-2_heroku",
+  "repository": "https://github.com/Keys-007/CallsMusicFork",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
